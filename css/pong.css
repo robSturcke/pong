@@ -6,3 +6,8 @@ canvas {
     left: 0;
     right: 0;
 }
+
+h1 , h2 {
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+}
