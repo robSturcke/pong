@@ -15,3 +15,8 @@ h1 , h2 {
 .ion-social-github {
     font-size: 1rem;
 }
+
+a {
+    color: rgb(77, 34, 109);
+    text-decoration: none;
+}
